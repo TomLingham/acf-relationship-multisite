@@ -1,0 +1,8 @@
+{
+  "name": "TomLingham/acf-relationship-multisite",
+  "license": "MIT",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.22"
+  }
+}
